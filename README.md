@@ -88,14 +88,6 @@ Researcher: Collects key facts, statistics, and case studies.
 Analyst: Identifies risks, opportunities, and recommendations.
 Writer: Produces a polished, professional report.
 
-Repository Structure
-MultiAI-Agent/
-├── MultiAI Agent.py         # Main multi-agent system implementation
-├── requirements.txt         # Dependencies
-├── README.md               # This file
-├── .env.example            # Example environment file for API keys
-└── .gitignore              # Ignores virtual env and temporary files
-
 Dependencies
 The project relies on the following Python libraries (listed in requirements.txt):
 
